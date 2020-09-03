@@ -9,4 +9,6 @@ CD root file 'gamma'.
 
 npm start
 
-!!!! Requires access to microphone !!!!! 
+!!!! Requires access to microphone !!!!!
+
+!!! Also currently only works on a 1920 x 1080 monitor !!! ---->>> update coming soon 
